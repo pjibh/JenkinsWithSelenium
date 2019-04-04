@@ -14,8 +14,6 @@ public class InstanceOfOperator {
 
 class child extends InstanceOfOperator{
 	public static void test(){
-	if (io1 instanceof child ) {
-		
-	}
+
 	}
 	}
